@@ -19,4 +19,5 @@ However v3 does not include by default some features that are available out of t
     <h3><img width="664" alt="image" src="https://user-images.githubusercontent.com/85268103/155056386-26e5a5c6-6521-4df5-be6e-9ebbef4cdbe3.png"></h3></li>
 </ol>
 
-
+# RUN
+```node server.js```
